@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+
+
+}
+
+header {
+    margin-left: 76px;
+    margin-top: 44px;
+    margin-bottom: 144px;
+
+}
+
+.menu {
+    margin: 23px;
+    color: #989D9C;
+    font-size: 24px;
+    font-weight: 600;
+
+
+}
+
+.button1 {
+    background: #665AE1;
+    width: 130px;
+    height: 41px;
+    border-radius: 50px;
+    border: none;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 600;
+    cursor: pointer;
+
+}
+
+.button1:hover {
+    opacity: 0.9;
+}
+
+.button1:active {
+    opacity: 0.3;
+}
+
+img {
+    width: 568px;
+    height: 500px;
+    display: inline-block;
+
+}
+
+.infp {
+    width: 515px;
+    display: inline-block;
+    margin-left: 30px;
+}
+
+h1 {
+    font-size: 100px;
+    color: #515151;
+    font-weight: 900;
+
+}
+
+h2 {
+    color: #515151;
+    font-size: 58px;
+    font-weight: 500;
+}
+
+p {
+    color: #848484;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 32px;
+    text-align: justify;
+    width: 430px;
+
+}
+
+.button2 {
+    background: #ADFF00;
+    border-radius: 50px;
+    border: none;
+    width: 239px;
+    height: 64px;
+    font-size: 28px;
+    font-weight: 700;
+    box-shadow: rgb(156, 156, 156) 0px 4px 4px 0px;
+    margin-top: 65px;
+    cursor: pointer;
+}
+
+.button2:hover {
+    opacity: 0.8;
+}
+
+.button2:active {
+    opacity: 0.3;
+}
